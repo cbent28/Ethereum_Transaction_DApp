@@ -108,6 +108,19 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
+# KryptoJobs
+![Screen Shot 2022-11-10 at 5 00 40 PM](https://user-images.githubusercontent.com/104800728/201216659-1d739abc-eb7e-4e55-b63e-d21aa920d594.png)
+![Screen Shot 2022-11-10 at 5 00 50 PM](https://user-images.githubusercontent.com/104800728/201216695-7e4ded71-c5d3-420b-8b3b-e1262d070d81.png)
+
+# Transaction Details
+![Screen Shot 2022-11-10 at 5 03 59 PM](https://user-images.githubusercontent.com/104800728/201216754-b1ff460e-298f-495f-9ef5-eb0da27a3f03.png)
+![Screen Shot 2022-11-10 at 5 04 24 PM](https://user-images.githubusercontent.com/104800728/201216869-32e64d50-304d-4b9a-b8a4-9d9ac0a3870f.png)
+![Screen Shot 2022-11-10 at 5 04 46 PM](https://user-images.githubusercontent.com/104800728/201217183-1626534a-12f0-429f-be52-6d469e1946ce.png)
+![Screen Shot 2022-11-10 at 5 04 55 PM](https://user-images.githubusercontent.com/104800728/201217216-301c80a2-ef9e-4663-9af6-3768a245cc1d.png)
+![Screen Shot 2022-11-10 at 5 05 06 PM](https://user-images.githubusercontent.com/104800728/201217255-ef0afecd-b84b-4aed-aad9-3e723e17ec96.png)
+![Screen Shot 2022-11-10 at 5 05 27 PM](https://user-images.githubusercontent.com/104800728/201217290-d9180bb8-84b1-434a-a336-6711f6d9f1ac.png)
+
+
 ---
 
 ## Submission
